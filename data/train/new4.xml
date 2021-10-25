@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>new4.jpg</filename>
+	<path>D:\Machine learning\projects\grape bunch detection\data\train\new4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>78</ymin>
+			<xmax>429</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
