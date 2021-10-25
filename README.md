@@ -37,6 +37,9 @@ A custom training loop was built using tensorflow Gradient tape. It uses model l
 Model was then trained for 5000 steps on GPU. Nvidea CUDA was leveraged to make the training faster.
 Model was then tested on 5 test images as well.
 
+![training](https://user-images.githubusercontent.com/29313141/138660172-992d1798-825c-4355-b69a-d9092bc4de86.png)
+
+
 ## Technologies used
 
 - Python
@@ -47,3 +50,4 @@ Model was then tested on 5 test images as well.
 - Matplotlib
 - VSCODE as IDE
 - Numpy
+- Nvidea CUDA for GPU. Nvidea Geforce GT 840m 4GB
