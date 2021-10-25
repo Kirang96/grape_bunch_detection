@@ -1,0 +1,52 @@
+                                            GRAPE BUNCH detection project
+                                        ---------------------------------------
+
+PLAN:
+
+PROBLEM:
+Create a model that can identify grape bunches
+
+SOLUTION:
+Few shot learning method that uses a Resnet pretrained model as backbone. Modify the last layer of the Resnet model to a single class and train that layer with a small dataset of grape bunch images downloaded from the internet.
+
+
+STEPS:
+
+Day 1 (15/10):
+
+1. Create plan                                                          Done
+2. Create a workspace                                                   Done
+3. Make initial imports                                                 Done
+4. Setup TFOD                                                           Done
+5. Download grape bunch images                                          Done
+
+Day 2 (16/10):
+
+6. Import the data into the model                                       Done
+7. Preprocess the images                                                Done
+8. Create image annotations                                             Done
+
+Day 3 (17/10):
+
+8. Get the pretrained model and load it                                 Not Done 
+9. Modify the pretrained layers for the purpose                         Not Done
+
+Day 4 (18/10):
+
+10. Run the model without training to initialize variables              Not Done
+11. Train the model                                                     Not Done
+
+Day 5 (19/10):
+
+12. Evaluate the model                                                  Not Done
+13. Finalise the model                                                  Not Done
+
+Day 6 (20/10):
+
+14. Document the process                                                Not Done                
+15. Create a webpage                                                    Not Done
+
+Day 7 (21/10): 
+
+16. Deploy the model using Heroku or AWS (Preferably AWS)               Not Done
+17. Voila! Project is done. Mail'em                                     Not Done
